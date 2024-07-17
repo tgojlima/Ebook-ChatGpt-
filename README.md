@@ -8,7 +8,7 @@
 
 # Introdução do Ebook "Guia: O Poder do ChatGPT"
 
-***Autor: Tiago Lima
+**Autor: Tiago Lima**
 
 >Oi, pessoal! Eu sou a Lisa Simpson, e estou aqui para falar sobre algo super interessante: o ChatGPT! Ele é como um robô inteligente que sabe conversar com a gente. Criado pela OpenAI, o ChatGPT entende o que escrevemos e responde de um jeito legal e inteligente. Ele é ótimo para muitas coisas, como resumir textos grandes, criar histórias personalizadas e até ajudar a fazer planos de estudo. Legal, né?
 
