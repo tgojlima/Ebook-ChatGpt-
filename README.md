@@ -26,7 +26,7 @@
 
 ![Bart](Imagens/Imagem2.jpg)
 
-[Ebook](<Ebook Guia o poder do ChatGPT em PDF.pdf>)
+[Acesse o ebook clicando aqui](<Ebook Guia o poder do ChatGPT em PDF.pdf>)
 
 
 
