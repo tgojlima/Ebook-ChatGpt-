@@ -1,5 +1,7 @@
 # :book:  _**EBOOK CHATGPT**_  :book:
+
 :octocat:
+
 ***
 
 # :iphone: **Ebook Guia o Poder do ChatGPT** :computer:
@@ -29,6 +31,7 @@
 :point_right:[ACESSE O EBOOK CLICANDO AQUI!!!](<Ebook Guia o poder do ChatGPT em PDF.pdf>) :point_left:
 
 # Agradecimentos 
+
 ***
 
 >"D'oh! Bem-vindo ao guia 'O Poder do ChatGPT'. Obrigado por dar uma chance a esse ebook. Se você gostou tanto quanto eu gosto de donuts, estamos no caminho certo! O ChatGPT é como o Moe da inteligência artificial: sempre lá quando você precisa. Lisa e Bart escreveram o guia, o que é surpreendente, especialmente para Bart. Espero que ele não tenha escrito nenhuma besteira, senão ele estará encrencado!"
@@ -41,30 +44,20 @@
 
 
 # Redes Sociais
+
 ***
 
 **Nos encontre nas redes sociais, curta e compartilhe nossos projetos**
 
-![linkedin](Imagens/Logo%20linkedin.jpg)
+![linkedin](Imagens/Logo%20linkedin.jpg)[Tiago Lima](www.linkedin.com/in/tiago-jose-de-lima-59343b59)
 
-[Tiago Lima](www.linkedin.com/in/tiago-jose-de-lima-59343b59)
+![linkedin](Imagens/Logo%20linkedin.jpg)[Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe)![Instagram](Imagens/Logo%20Instagram.jpg)[Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/) ![Github](Imagens/GitHub.jpg) [FelipeAguiar](https://github.com/felipeAguiarCode)
 
-![linkedin](Imagens/Logo%20linkedin.jpg)
+![Github](Imagens/GitHub.jpg)[Tiago Lima](https://github.com/tgojlima)
 
-[Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe)
+![Dio](Imagens/Logo%20Dio.png)[Dio](https://www.dio.me/en)
 
-![Instagram](Imagens/Logo%20Instagram.jpg)
-
-[Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
-
-![Github](Imagens/GitHub.jpg)
-
-[Tiago Lima](https://github.com/tgojlima)
-
-![Dio](Imagens/Logo%20Dio.png)
-[Dio](https://www.dio.me/en)
-
-> Chupe-chupe
+> Bye Bye
 
 ![Magie](Imagens/Magie.jpg)
 
