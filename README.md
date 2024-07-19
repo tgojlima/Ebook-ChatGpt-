@@ -38,8 +38,14 @@
 
 ![Margie](Imagens/Marge.jpeg)
 
-> Acesse o link chupe-chupe
-:point_right:[CLICANDO AQUI!!!](<Ebook Guia o poder do ChatGPT em PDF.pdf>) :point_left:
+
+# Redes Sociais
+
+> Nos encontre nas redes sociais, curta e compartilhe nossos projetos
+
+![linkedin](Imagens/Logo%20linkedin.jpg)
+![Tiagolima](www.linkedin.com/in/tiago-jose-de-lima-59343b59
+)
 
 ![Magie](Imagens/Magie.jpg)
 
