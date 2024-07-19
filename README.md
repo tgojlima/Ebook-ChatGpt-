@@ -44,8 +44,8 @@
 > Nos encontre nas redes sociais, curta e compartilhe nossos projetos
 
 ![linkedin](Imagens/Logo%20linkedin.jpg)
-![Tiagolima](www.linkedin.com/in/tiago-jose-de-lima-59343b59
-)
+
+![Tiagolimawww.linkedin.com/in/tiago-jose-de-lima-59343b59]
 
 ![Magie](Imagens/Magie.jpg)
 
