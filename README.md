@@ -57,18 +57,18 @@
 ![Github](Imagens/GitHub.jpg)    
 
 
-|   [Tiago Lima](https://github.com/tgojlima)      
+|   [Tiago Lima](https://github.com/tgojlima)  |    
 
 
 ![linkedin](Imagens/Logo%20linkedin.jpg)    
 
 
-|   [Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe)  
+|   [Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe) | 
 
 ![Instagram](Imagens/Logo%20Instagram.jpg)
 
 
-|   [Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
+|   [Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/) |
 
 ![Github](Imagens/GitHub.jpg)   
 
@@ -78,7 +78,8 @@
 
 
 
-![Dio](Imagens/Logo%20Dio.png)      | [Dio](https://www.dio.me/en)      |
+![Dio](Imagens/Logo%20Dio.png)      
+| [Dio](https://www.dio.me/en)      |
 
 
 
