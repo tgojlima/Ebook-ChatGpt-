@@ -40,14 +40,32 @@
 
 
 # Redes Sociais
+**
 
-> Nos encontre nas redes sociais, curta e compartilhe nossos projetos
+**Nos encontre nas redes sociais, curta e compartilhe nossos projetos
 
 ![linkedin](Imagens/Logo%20linkedin.jpg)
 
-![Tiagolimawww.linkedin.com/in/tiago-jose-de-lima-59343b59]
+[Tiago Lima](www.linkedin.com/in/tiago-jose-de-lima-59343b59)
 
+![linkedin](Imagens/Logo%20linkedin.jpg)
+
+[Felipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe)
+
+![Instagram](Imagens/Logo%20Instagram.jpg)
+
+[Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
+
+![Github](Imagens/GitHub.jpg)
+
+[Tiago Lima](https://github.com/tgojlima)
+
+![Dio](Imagens/Logo%20Dio.png)
+[Dio](https://www.dio.me/en)
+
+> Chupe-chupe
 ![Magie](Imagens/Magie.jpg)
+
 
 
 
