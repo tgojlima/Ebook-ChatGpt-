@@ -29,6 +29,7 @@
 :point_right:[ACESSE O EBOOK CLICANDO AQUI!!!](<Ebook Guia o poder do ChatGPT em PDF.pdf>) :point_left:
 
 # Agradecimentos 
+***
 
 >"D'oh! Bem-vindo ao guia 'O Poder do ChatGPT'. Obrigado por dar uma chance a esse ebook. Se você gostou tanto quanto eu gosto de donuts, estamos no caminho certo! O ChatGPT é como o Moe da inteligência artificial: sempre lá quando você precisa. Lisa e Bart escreveram o guia, o que é surpreendente, especialmente para Bart. Espero que ele não tenha escrito nenhuma besteira, senão ele estará encrencado!"
 
@@ -40,9 +41,9 @@
 
 
 # Redes Sociais
-**
+***
 
-**Nos encontre nas redes sociais, curta e compartilhe nossos projetos
+**Nos encontre nas redes sociais, curta e compartilhe nossos projetos**
 
 ![linkedin](Imagens/Logo%20linkedin.jpg)
 
