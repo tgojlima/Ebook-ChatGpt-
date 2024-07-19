@@ -28,6 +28,22 @@
 
 :point_right:[ACESSE O EBOOK CLICANDO AQUI!!!](<Ebook Guia o poder do ChatGPT em PDF.pdf>) :point_left:
 
+# Agradecimentos 
+
+>"D'oh! Bem-vindo ao guia 'O Poder do ChatGPT'. Obrigado por dar uma chance a esse ebook. Se você gostou tanto quanto eu gosto de donuts, estamos no caminho certo! O ChatGPT é como o Moe da inteligência artificial: sempre lá quando você precisa. Lisa e Bart escreveram o guia, o que é surpreendente, especialmente para Bart. Espero que ele não tenha escrito nenhuma besteira, senão ele estará encrencado!"
+
+![Homer](Imagens/Homer.jpg)
+
+> Homer, querido, nós somos personagens de desenho animado e não escrevemos eBooks. O eBook "O Poder do ChatGPT" foi escrito por Tiago Lima, baseado no curso de Inteligência Artificial da DIO, ministrado pelo professor Felipe Aguiar. Agradeça ao Tiago e ao professor Felipe pelo incrível trabalho!
+
+![Margie](Imagens/Marge.jpeg)
+
+> Acesse o link chupe-chupe
+:point_right:[CLICANDO AQUI!!!](<Ebook Guia o poder do ChatGPT em PDF.pdf>) :point_left:
+
+![Magie](Imagens/Magie.jpg)
+
+
 
 
 
