@@ -1,0 +1,85 @@
+Prompts para ebook Guia de ChaptGPT
+
+Crie um titulo de um ebook sobre o tema Guia Explorando o poder do ChatGPT  
+e o nicho para pessoas que querem aprender a usar o chatgp e subnicho de pessoas que querem fazer ebook no chatgpt, 
+o título deve ser épico e curto, e tenha uma temática mais nerd com os personagens dos Simpsons me liste 5 títulos 
+
+Combine oos dois títulos abaixo, para gerar novos títulos poderosos:
+Bart na Era Digital: Explorando o ChatGPT para Criar Ebooks Nerds
+Lisa & ChatGPT: A Jornada Nerd na Criação de Ebooks Incríveis
+
+Usar 3 com o tom de dominação do mundo
+
+Transforme o texto abaixo com o tom de voz da personagem Lisa Simpson,
+na linguagem simples como se fosse para uma criança de 10 anos 
+
+Transforme o texto abaixo com o tom de voz da personagem Bart Simpson,
+na linguagem simples como se fosse para uma criança de 10 anos
+ 
+
+O ChatGPT é uma ferramenta de inteligência artificial desenvolvida pela OpenAI, 
+capaz de entender e gerar texto com base em prompts fornecidos. 
+Ele pode ajudar em diversas tarefas, como resumir textos, 
+criar conteúdos personalizados e até elaborar cronogramas de estudo.
+
+Crie um texto com o tom de voz do personagem Bart Simpson, na linguagem simples 
+como se fosse para uma criança de 10 anos, explicando que o ebook é baseado na
+aula de Fundamentos de IA para Devs na Dio, com o Professor Felipe Aguiar e tem 
+como objetivo para fins didádicos e dorminar o mundo (risada)
+
+Crie um texto com o tom de voz da personagem Lisa Simpson, na linguagem simples 
+como se fosse para uma criança de 10 anos, explicando o que é um prompt de autoridade
+
+
+Crie um texto com o tom de voz do personagem Bart Simpson, na linguagem simples 
+como se fosse para uma criança de 10 anos, explicando o que são Act comandos
+
+
+
+Modelo de PROMPT de Autoridade (Programação Chatgpt)
+
+Me escreva um artigo sobre Formas de adiquir renda extra, em tom de conversa para uma criança de 10 anos, 
+com humor de sendo urgência com tons de comédia do estilo do Thiago Ventura em forma de feed do Instagran.  
+Agora, use os itens em {Resumo} para o {Roteiro} seguido as {Regras}
+
+{RESUMO}
+[Autoridade]:          , fundador da empresa            .
+[Avatar]: Clientes e Seguidores
+[Problema]: Formas de adiquerir renda extra 
+
+{Roteiro} 
+Olá eu sou [Autoridade] e vou ajudar o [Avatar]
+Hoje vamos resolver o [Problema] 
+
+{REGRAS} 
+> Siga o {Roteiro} acima e substitua os elementos entre [] do {Roteiro} 
+por aqueles listados em {RESUMO} acima. 
+> Mantenha o tom e ritmo, mas reescreva palavras do {Roteiro} para que 
+seja diferente do original, expandindo ou mudando conforme necessário
+> Use Analogias simples e hipérboles
+
+Me indique imagens de acordo com o tema acima 
+
+Crie um agradecimento do ebook Guia O poder do chatgpt, como se fosse Homer Simpson 
+
+Criar uma frase respondendo a frase do Homer Simpson explicando que ele são desenhos e não escrevem ebooks
+mas que na verdade quem escreveu o ebook foi nosso amigo Tiago Lima baseado no curso da Dio de inteligência Artificial
+com o professor Felipe Aguiar, como se fosse Margie Simpson 
+
+Simplesmente mostre a mensagem a abaixo com os logos 
+
+Mostre as redes sociais do Tiago Lima , Professor Felipe Aguiar e da Dio
+
+www.linkedin.com/in/tiago-jose-de-lima-59343b59
+https://www.linkedin.com/in/felipeaguiar-exe
+https://www.instagram.com/felipeaguiar.exe/
+https://www.dio.me/en
+
+Obrigado por ler esse Ebook 
+
+
+
+
+
+
+ 
