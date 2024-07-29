@@ -82,7 +82,26 @@
 | [Dio](https://www.dio.me/en)      |
 
 
+***
 
+# :computer: Tecnologias utilizadas no projeto 
+
+* Visual studio code 
+* Github desktop 
+* Paint
+* Powerpoint
+* Bloco de Notas 
+* ChatGPT
+
+###
+
+# Prompts 
+
+:point_right:[ACESSE OS PROMPTS CLICANDO AQUI!!!](#prompts):point_left:
+
+###
+
+> Chupe-Chupe 
 > Bye Bye
 
 ![Magie](Imagens/Magie.jpg)
